@@ -7,8 +7,8 @@
 Simple test runs are listed below.
 
 ```bash
-git clone https://github.com/smileyzyw/autoBIM-dev.git
-cd autoBIM-dev/vvenc
+git clone https://github.com/smileyzyw/autoBIM.git
+cd autoBIM/vvenc
 ```
 
 Baseline:
